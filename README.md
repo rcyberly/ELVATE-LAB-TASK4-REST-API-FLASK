@@ -1,0 +1,1 @@
+A clean and powerful RESTful API built using Python and Flask, designed to manage user data with full CRUD functionality. This project demonstrates how to build scalable endpoints, handle JSON requests, and maintain in-memory data structures — perfect for learning, prototyping, or showcasing backend skills.
